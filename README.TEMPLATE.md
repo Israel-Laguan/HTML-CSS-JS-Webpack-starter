@@ -94,6 +94,7 @@ This project is licensed under the Apache 2 License - see the [LICENSE.md](LICEN
 * [Microverse](https://www.microverse.org/)
 * [The Odin Project](https://www.theodinproject.com/)
 * [Readme header author](https://github.com/collinsugwu/Microverse201-Enumerable-Methods)
+* [Webpack Configuration author](https://github.com/ivarprudnikov/webpack-static-html-pages)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

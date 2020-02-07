@@ -70,6 +70,12 @@ Last but not least the script remove this README and substitute for the renamed 
 
 - [Israel Laguan](https://github.com/Israel-Laguan)
 
+## Acknowledgements
+* [Microverse](https://www.microverse.org/)
+* [The Odin Project](https://www.theodinproject.com/)
+* [Readme header author](https://github.com/collinsugwu/Microverse201-Enumerable-Methods)
+* [Webpack Configuration author](https://github.com/ivarprudnikov/webpack-static-html-pages)
+
 # License
 
 This project is licensed under the Apache 2 License - see the [LICENSE.md](LICENSE.md) file for details.
