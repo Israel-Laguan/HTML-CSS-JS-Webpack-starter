@@ -129,28 +129,29 @@ Last but not least the script remove this README and substitute for the renamed 
     <td>
         <div align="center">
             <a href="mailto:israellaguan@gmail.com" target="_blank" rel="author">
-                <img src="https://img.icons8.com/color/48/000000/message-squared.png" style="border-radius: 10%" alt="My GitHub" height="45px">
-                <h3>
-                    Email me to 
-                    <a href="mailto:israellaguan@gmail.com">
-                        israellaguan@gmail.com
-                    </a>
-                </h3>
+                <img src="https://img.icons8.com/color/48/000000/message-squared.png" alt="My GitHub" height="45px">
             </a>
+            <h3>
+                <a href="mailto:israellaguan@gmail.com" target="_blank" rel="author">
+                    Email me to israellaguan@gmail.com
+                </a>
+            </h3>
             <a href="https://www.linkedin.com/in/israellaguan/" target="_blank" rel="author">
                 <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="My Linkedin" height="45px">
-                <h3>
+            </a>
+            <h3>
+                <a href="https://www.linkedin.com/in/israellaguan/" target="_blank" rel="author">
                     Connect to my Linkedin
-                </h3>
-            </a>
+                </a>
+            </h3>
             <a href="https://github.com/Israel-Laguan" target="_blank" rel="author">
-                <img src="https://img.icons8.com/color/48/000000/github--v1.png" 
-			style="border-radius: 10%" alt="My GitHub" height="45px"
-		>
-                <h3>
-                    Check my GitHub Profile
-                </h3>
+                <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="My GitHub" height="45px">
             </a>
+            <h3>
+                <a href="https://github.com/Israel-Laguan" target="_blank" rel="author">
+                    Check my GitHub Profile
+                </a>
+            </h3>
         </div>
     </td>
   </tr>
