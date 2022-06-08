@@ -21,8 +21,6 @@
   <p align="center">
     Multi pages HTML with vanilla JS and pure CSS, image loading and more!
     <br />
-	  🖊️
-    <a href="https://">Read the article</a>
     🐞
     <a href="https://github.com/Israel-Laguan/HTML-CSS-JS-Webpack-starter/issues">Report a Bug</a>
     🙋‍♂️
